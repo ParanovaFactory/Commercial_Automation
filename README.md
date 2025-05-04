@@ -45,3 +45,17 @@ This is a **Commercial Automation System** built using **.NET** technologies wit
 1. Clone the repository:
    ```bash
    git clone https://github.com/ParanovaFactory/Commercial_Automation.git
+
+---
+
+## 👤 Author
+
+**Sadık Berkay Karaduman**  
+📧 [karadumansadikberkay@gmail.com](mailto:karadumansadikberkay@gmail.com)  
+🔗 [GitHub – ParanovaFactory](https://github.com/ParanovaFactory)
+
+---
+
+## 📄 License
+
+MIT License — Feel free to use, modify, and contribute.
